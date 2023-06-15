@@ -24,7 +24,7 @@ sudo apt install libncursesw5-dev gcc
 使い方
 ```bash
 git clone https://github.com/Taiki-Kobasako/Bank.git
-cd 
+cd Bank
 gcc ATM.c -lncursesw
 ./a.out
 ```
